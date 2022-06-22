@@ -1,0 +1,15 @@
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.vbprojAssemblyReference.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi_Suhu.Form2.resources
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.vbproj.GenerateResource.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.AssemblyInfoInputs.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.AssemblyInfo.vb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.vbproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\bin\Debug\netcoreapp3.1\Konversi Suhu.exe
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\bin\Debug\netcoreapp3.1\Konversi Suhu.deps.json
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\bin\Debug\netcoreapp3.1\Konversi Suhu.runtimeconfig.json
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\bin\Debug\netcoreapp3.1\Konversi Suhu.runtimeconfig.dev.json
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\bin\Debug\netcoreapp3.1\Konversi Suhu.dll
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\bin\Debug\netcoreapp3.1\Konversi Suhu.pdb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.dll
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.pdb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Suhu\obj\Debug\netcoreapp3.1\Konversi Suhu.genruntimeconfig.cache
